@@ -1,5 +1,5 @@
 # bluegreen
-Simple demo code for Blue Green Deployments
+Simple demo code for Blue Green Deployments for Red Hat OpenShift 3.x.
 
 AB Deployment Demo:
 
